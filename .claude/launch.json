@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "relogiosolvr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8868"], "port": 8868 }
+  ]
+}
